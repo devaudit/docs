@@ -26,8 +26,9 @@ Concept by [https://bitclout.com/u/Taonaya](https://bitclout.com/u/Taonaya)
 
 ## Intro
 
-
 BitClout as a platform promotes the creation of third party applications that use BitClout as a data source, and means for user authentication. As this ecosystem expands, the potential risk of the users interacting with these third party sites is also rising sharply. 
+
+## **To have any app audited, join our discord (listed above) and we'll add it to the backlog.**
 
 ## What is DevAudit?
 
@@ -52,12 +53,34 @@ In addition to this, we are in the process of developing tools to allow develope
 We are open, and willing to partner with any and all BitClout project creators looking to establish trust with their userbase through transparency. 
 
 
-**To have any app audited, join our discord (listed above) and we'll add it to the backlog.**
+## Technical Project Plan and Roadmap
+
+* Completed
+    * Initial Concept/Release
+    * Public Facing Audit Template
+* In Active Development
+    * Automated, ongoing tests of "trusted" applications
+    * Internal Audit Template
+    * Audit Timespan/Invalidation Parameters
+    * API
+* Roadmap Items
+    * ReAudit Parameters
+    * Build/Deploy (CI/CD) Integration Tools
 
 
 
 
-## Current Touchpoints:
+## Help Us
+
+All proceeds made from founder rewards, or direct donations goes right back into this project. While our current operating costs are low, we expect the following operational costs immediately:
+
+* Legal
+* Infrastructure costs (temp micro cloud boxes for forensic testing of binaries) 
+* Partnerships, and Certifications (currently targeting https://cryptoconsortium.org/certifications/ccssa/)
+* Paying our auditors to incentivize real talent to be on the audit team 
+
+
+## Current "Trust in Transparency" Touchpoints:
 
 Below are **some** of the components of our audits. **Please join our discord to suggest additional audit touchpoints**
 
