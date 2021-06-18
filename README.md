@@ -49,9 +49,12 @@ DevAudit will start by investigating the public facing components of each respec
 
 In addition to this, we are in the process of developing tools to allow developers to report vulnerability data right from their build, and deployment pipelines. **Developers, join our discord to learn more**
 
+We are open, and willing to partner with any and all BitClout project creators looking to establish trust with their userbase through transparency. 
+
+
 **To have any app audited, join our discord (listed above) and we'll add it to the backlog.**
 
-In addition to auditing what's on public-domain (websites, open source projects, etc) we are open, and willing to partner with any and all BitClout project creators looking to secure their projects to ensure user safety, and security.  
+
 
 
 ## Current Touchpoints:
